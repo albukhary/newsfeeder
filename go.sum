@@ -1,3 +1,5 @@
+github.com/albukhary/newsfeeder/httpd v0.0.0-20210627081836-a2b58da9b754 h1:yd3OkVk5Cg5o3syvq/sMv9vgu5dYre0d7VnYSVlRbCI=
+github.com/albukhary/newsfeeder/httpd v0.0.0-20210627081836-a2b58da9b754/go.mod h1:h4nmycZU5u/49sTOxesLOqyLaT89OcnhTMC2qaRzgEk=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=

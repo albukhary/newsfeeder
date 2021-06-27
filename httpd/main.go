@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/albukhary/newsfeeder/platform/newsfeed"
+	"newsfeeder/httpd/platform/newsfeed"
 	//	"newsfeeder/httpd/handler"
 	//	"github.com/gin-gonic/gin"
 )
