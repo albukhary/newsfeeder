@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"newsfeeder/httpd/platform/newsfeed"
+	"newsfeeder/platform/newsfeed"
 	//	"newsfeeder/httpd/handler"
 	//	"github.com/gin-gonic/gin"
 )
@@ -17,9 +17,9 @@ func main() {
 
 	feed := newsfeed.New()
 
-	fmt.Print(feed)
+	fmt.Println(feed)
 
 	feed.Add(newsfeed.Item{"Hello", "How are you doing"})
 
-	fmt.Print(feed)
+	fmt.Println(feed)
 }
